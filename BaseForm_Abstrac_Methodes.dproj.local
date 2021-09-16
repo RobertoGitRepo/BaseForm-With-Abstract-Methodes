@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.289,D:\Sydney_2021\Rio_2021\Project1.dproj=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\BaseForm_Abstrac_Methodes.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.185,=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.441,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.dfm=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UBaseForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.994,=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.764,=D:\Sydney_2021\Rio_2021\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.366,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\USecondPage.dfm=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.210,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UFirstPage.pas=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.603,D:\Sydney_2021\Rio_2021\Unit1.pas=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.258,=D:\Sydney_2021\Rio_2021\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.603,D:\Sydney_2021\Rio_2021\Unit1.dfm=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.210,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UFirstPage.dfm=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.028,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UThirdPage.dfm=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.366,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\USecondPage.pas=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.028,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UThirdPage.pas=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.679,=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.660,=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.441,D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\UBaseForm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.735,=D:\Sydney_2021\Rio_2021\BaseForm With Abstract Methodes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
