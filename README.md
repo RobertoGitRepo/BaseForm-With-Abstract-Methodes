@@ -32,4 +32,4 @@ Delphi BaseForm With Abstract Methodes where SubForms Able to instantiate from B
 
 ----------------------------------------
 
-[StackOverflow Post](#https://stackoverflow.com/questions/15928852/delphi-7-an-abstract-class-through-vfi)
+![StackOverflow Post](#https://stackoverflow.com/questions/15928852/delphi-7-an-abstract-class-through-vfi)
