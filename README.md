@@ -29,3 +29,7 @@ Results inside MainForm
 ![ScreenShot_20210917013809](https://user-images.githubusercontent.com/90516764/133702984-a5f953b0-4036-4e26-9b20-87880eccd3b1.png)
 
 Delphi BaseForm With Abstract Methodes where SubForms Able to instantiate from BaseForm with abstract methods
+
+----------------------------------------
+
+[StackOverflow Post](#https://stackoverflow.com/questions/15928852/delphi-7-an-abstract-class-through-vfi)
